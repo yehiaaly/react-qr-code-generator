@@ -31,6 +31,7 @@ Check out the live demo here: [Live Demo](https://react-qr-code-generator.pages.
 ### Prerequisites
 
 - Node.js (v18 or higher)
+- npm or yarn
 
 ### Installation
 
