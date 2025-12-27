@@ -17,7 +17,7 @@ const QrCodeGenerator = () => {
   const isInputEmpty = input.trim() === "";
 
   return (
-    <Card className="mx-auto my-12 w-1/2">
+    <Card className="mx-auto my-12 w-md px-4 py-8">
       <CardHeader>
         <CardTitle>QR Code Generator</CardTitle>
         <CardDescription>
